@@ -1,6 +1,6 @@
 <p align="center"><img alt="hackthecrack" src="./assets/hackthecrack.png" width ="1024" ></p>
 
-<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='55' align="left"/><h1>Hey there! I'm Nairitya - aka FaLLenGuY</h1>
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='55' align="left"/><h1>Hey there! I'm Hack The Crack </h1>
 
 - 👋 Hi, I’m @HackTheCrack
 - 👀 I’m interested in Cyber Security 
