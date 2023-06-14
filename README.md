@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HackTheCrack
 - 👀 I’m interested in Cyber Security 
-- 🌱 I’m currently learning Cybersecurity stuff
-- 💞️ I’m looking to collaborate on projects 
+- 🎥 I’m currently Creating YouTube Content Related to Cyber Security 
+- 🤝 I’m looking to collaborate on projects 
 - 📫 You can reach me via LinkedIn https://www.linkedin.com/in/eshan-a56a39210
 
 <!---
