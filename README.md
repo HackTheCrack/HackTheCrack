@@ -27,5 +27,5 @@
 
 ## 🤝🏻 &nbsp;Connect with Me
 
-<p align="center"><a href="https://linkedin.com//in/eshan-a56a39210"><img src="https://img.shields.io/badge/-Eshan%20Tale-white?style=plastic&logo=Linkedin&logoColor=blue"/></a>  <a href="https://nairitya03.github.io"><img src="https://img.shields.io/badge/-nairitya03.github.io-white?style=plastic&logo=Google-Chrome&logoColor=0c5026"/></a>  <a href="mailto:talenairitya@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=plastic&logo=gmail&logoColor=red"/></a>  <a href="https://www.instagram.com/_the_fall.en_/"><img src="https://img.shields.io/badge/-_the_fall.en_-white?style=plastic&logo=instagram&logoColor=purple"/></a> </p>
+<p align="center"><a href="https://linkedin.com//in/eshan-a56a39210"><img src="https://img.shields.io/badge/-Eshan%20Tale-white?style=plastic&logo=Linkedin&logoColor=blue"/></a>  <a href="https://nairitya03.github.io"><img src="https://img.shields.io/badge/-nairitya03.github.io-white?style=plastic&logo=Google-Chrome&logoColor=0c5026"/></a>  <a href="mailto:cracker.eshan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=plastic&logo=gmail&logoColor=red"/></a>  <a href="https://www.instagram.com/_the_fall.en_/"><img src="https://img.shields.io/badge/-_the_fall.en_-white?style=plastic&logo=instagram&logoColor=purple"/></a> </p>
 
