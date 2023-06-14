@@ -6,7 +6,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![Kali](https://img.shields.io/badge/-Kali-05122A?style=plastic&logo=kali-linux&logoColor=ffffff&logoWidth=20)&nbsp;
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=plastic&logo=github)&nbsp;
