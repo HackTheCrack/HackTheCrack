@@ -31,5 +31,11 @@
 
 ## 🤝🏻 &nbsp;Connect with Me
 
-<p align="center"><a href="https://linkedin.com//in/eshan-a56a39210"><img src="https://img.shields.io/badge/-Eshan-white?style=plastic&logo=Linkedin&logoColor=blue"/> </a> <p align="center"><a href="https://Twitter.com//Hack_The_Crack"><img src="https://img.shields.io/badge/-Eshan-white?style=plastic&logo=Twitter&logoColor=blue"/></a> <a href="https://youtube.com//@Hack_The_Crack"><img src="https://img.shields.io/badge/-Hack_The_Crack-white?style=plastic&logo=Youtube&logoColor=red"/></a> </a>  <a href="mailto:cracker.eshan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=plastic&logo=gmail&logoColor=red"/></a>  <a href="https://www.instagram.com/hack_the_crack/"><img src="https://img.shields.io/badge/-hack_the_crack-white?style=plastic&logo=instagram&logoColor=purple"/></a> </p>
+<p align="center">
+<a href="https://linkedin.com//in/eshan-a56a39210"><img src="https://img.shields.io/badge/-Eshan-white?style=plastic&logo=Linkedin&logoColor=blue"/> </a> 
+<a href="https://Twitter.com//Hack_The_Crack"><img src="https://img.shields.io/badge/-Eshan-white?style=plastic&logo=Twitter&logoColor=blue"/></a> 
+<a href="https://youtube.com//@Hack_The_Crack"><img src="https://img.shields.io/badge/-Hack_The_Crack-white?style=plastic&logo=Youtube&logoColor=red"/></a> </a>  
+<a href="mailto:cracker.eshan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=plastic&logo=gmail&logoColor=red"/></a>  
+<a href="https://www.instagram.com/hack_the_crack/"><img src="https://img.shields.io/badge/-hack_the_crack-white?style=plastic&logo=instagram&logoColor=purple"/></a> 
+</p>
 
